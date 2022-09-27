@@ -1,0 +1,10 @@
+{
+  "Title": [
+    "Notes App Introduction! Click 'Read' button.",
+    "Note example"
+  ],
+  "Message": [
+    "Buttons:\r\n - New: creates a new note\r\n - Save: saves your note\r\n - Read: displays Title and Message of your saved note\r\n - Delete: deletes your selected note",
+    "OMG, you actually downloaded the file, ran it and even read this note?? I'm actually pleasantly surprised haha, tag me in our Discord server and let me know you saw this 😳"
+  ]
+}
