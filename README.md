@@ -1,5 +1,5 @@
 # Notes App
-A simple Notes app that I made in a single day, as my first C# project.  
+A simple Notes app that I made in a single day in Visual Studio, as my first C# project.  
   
 Followed a tutorial by SaeThunder: https://www.youtube.com/watch?v=8vAx0kObdps  
 I also added methods to locally store saved notes, so the app is actually useful.  
